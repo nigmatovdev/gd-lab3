@@ -19,10 +19,10 @@ Click the video below to watch the demo:
 
 ## 🧪 About Lab-3 MP
 
-The video and screenshot show the working state of the Lab-3 Monitoring Project, including scripts and system behavior.
+The video and screenshot show the working state of the Lab-3 Project, including scripts and system behavior.
 
 ---
 
 ## 👨‍💻 Author
 
-Abdusamad Nigmatov
+Abdusamad Nigmatov 220063
